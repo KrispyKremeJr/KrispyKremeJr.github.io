@@ -2,13 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Games & other small things I have worked on! 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## The Warden of Magic Game
+<img src="images/game.PNG?raw=true"/>
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Personal Tip Calculator](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
