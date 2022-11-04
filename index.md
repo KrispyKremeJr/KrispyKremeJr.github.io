@@ -4,7 +4,7 @@
 
 ### Games & other small things I have worked on! 
 
-## The Warden of Magic Game
+##### The Warden of Magic Game
 <img src="images/game.PNG?raw=true"/>
 
 
