@@ -6,31 +6,10 @@
 
 ##### The Warden of Magic Game
 <img src="images/game.PNG?raw=true"/>
-
-
----
-[Personal Tip Calculator](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A game about being a pacifistic sorcerer tasked with returning stolen magic back to the land!
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+##### Personal Tip Calculator
+A simple [application](https://gist.github.com/KrispyKremeJr/2285fbe97a478e028b6517977bd8d54f) that calculates one's bill and tip to return a total amount back to the player.
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
